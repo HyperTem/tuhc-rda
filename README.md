@@ -13,5 +13,7 @@ You can also find a link [here](https://www.youtube.com/watch?v=-19Up0dLzNw).
 
 If you have any suggestions for alternate places to put the flash, please create an 'issue' on the original Github repository, not this fork of it. I only used my pedestrian knowledge of coding to piece together a second option for where the flash is placed. I don't actually know how to implement anything more complicated than editing what was already here, so I won't be adding anything more than this. Sorry! 
 
+Also, let me know if I broke the original mod in some way without realizing it. If I did, then just go use the original, non-forked-by-me version.
+
 ## Installation
 To install, download the latest release from the `Releases` sidebar, and put the `rda` *folder* in your mods directory.
