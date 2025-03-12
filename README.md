@@ -13,10 +13,5 @@ You can also find a link [here](https://www.youtube.com/watch?v=-19Up0dLzNw).
 
 If you have any suggestions for alternate places to put the flash, please create an 'issue' on the original Github repository, not this fork of it. I only used my pedestrian knowledge of coding to piece together a second option for where the flash is placed. I don't actually know how to implement anything more complicated than editing what was already here, so I won't be adding anything more than this. Sorry! 
 
-## Installation (Recommended)
-To install, download the latest release from [here](https://drive.google.com/file/d/1YDqGuM3LDrNJCHF9ihjgydsxnhckPyTe/view?usp=sharing), and put the `rda` *folder* in your mods directory.
-This download includes RDA in full 1080p HD.
-
-## Installation (Alternate)
+## Installation
 To install, download the latest release from the `Releases` sidebar, and put the `rda` *folder* in your mods directory.
-Due to Github restrictions, this download only includes a noticeably compressed version of RDA.
